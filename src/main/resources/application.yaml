@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: NewProjectName
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/mydatabase
+    username: myuser
+    password: mypassword
+    driver-class-name: org.postgresql.Driver
+
+  flyway:
+    validateMigrationNaming: true
+
+server:
+  port: 9090
