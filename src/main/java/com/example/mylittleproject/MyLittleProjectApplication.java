@@ -8,9 +8,6 @@ public class MyLittleProjectApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(MyLittleProjectApplication.class, args);
-
-        // write code for hello word
-        System.out.println("Hello World");
     }
 
 }
