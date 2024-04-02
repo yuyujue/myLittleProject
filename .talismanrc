@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: src/main/resources/db/migration/V202404011632__create_clothes_table.sql
+  checksum: 3ec1cb69f012b1a6fff3477b126b16f8e01643dc9dd5e1b6a893bca672728a4d
+version: ""
