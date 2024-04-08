@@ -1,4 +1,4 @@
-package com.example.mylittleproject.jpa.entity;
+package com.example.store.jpa.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

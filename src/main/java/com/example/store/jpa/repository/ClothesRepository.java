@@ -1,6 +1,6 @@
-package com.example.mylittleproject.jpa.repository;
+package com.example.store.jpa.repository;
 
-import com.example.mylittleproject.jpa.entity.ClothesEntity;
+import com.example.store.jpa.entity.ClothesEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

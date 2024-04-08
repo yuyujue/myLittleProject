@@ -1,4 +1,4 @@
-package com.example.mylittleproject.controller.request;
+package com.example.store.controller.request;
 
 public record CreateClothesCsvRequest (String csvFilePath) {
 }

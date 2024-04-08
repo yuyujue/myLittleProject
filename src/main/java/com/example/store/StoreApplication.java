@@ -1,13 +1,13 @@
-package com.example.mylittleproject;
+package com.example.store;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MyLittleProjectApplication {
+public class StoreApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MyLittleProjectApplication.class, args);
+        SpringApplication.run(StoreApplication.class, args);
     }
 
 }

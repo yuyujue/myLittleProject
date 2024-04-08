@@ -1,9 +1,9 @@
-package com.example.mylittleproject.service;
+package com.example.store.service;
 
-import com.example.mylittleproject.jpa.entity.ClothesEntity;
-import com.example.mylittleproject.jpa.repository.ClothesRepository;
-import com.example.mylittleproject.mapper.ClothesMapper;
-import com.example.mylittleproject.model.Clothes;
+import com.example.store.jpa.entity.ClothesEntity;
+import com.example.store.jpa.repository.ClothesRepository;
+import com.example.store.mapper.ClothesMapper;
+import com.example.store.model.Clothes;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

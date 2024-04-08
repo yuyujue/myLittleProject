@@ -1,6 +1,6 @@
-package com.example.mylittleproject.util;
+package com.example.store.util;
 
-import com.example.mylittleproject.model.Clothes;
+import com.example.store.model.Clothes;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;

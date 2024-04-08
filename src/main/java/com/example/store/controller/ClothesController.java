@@ -1,12 +1,12 @@
-package com.example.mylittleproject.controller;
+package com.example.store.controller;
 
-import com.example.mylittleproject.controller.request.CreateClothesCsvRequest;
-import com.example.mylittleproject.controller.request.CreateClothesRequest;
-import com.example.mylittleproject.jpa.entity.ClothesEntity;
-import com.example.mylittleproject.mapper.ClothesMapper;
-import com.example.mylittleproject.model.Clothes;
-import com.example.mylittleproject.service.ClothesService;
-import com.example.mylittleproject.util.CsvUtil;
+import com.example.store.controller.request.CreateClothesCsvRequest;
+import com.example.store.controller.request.CreateClothesRequest;
+import com.example.store.jpa.entity.ClothesEntity;
+import com.example.store.mapper.ClothesMapper;
+import com.example.store.model.Clothes;
+import com.example.store.service.ClothesService;
+import com.example.store.util.CsvUtil;
 import lombok.AllArgsConstructor;
 import lombok.SneakyThrows;
 import org.springframework.web.bind.annotation.PostMapping;

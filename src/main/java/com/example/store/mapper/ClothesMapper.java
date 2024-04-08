@@ -1,8 +1,8 @@
-package com.example.mylittleproject.mapper;
+package com.example.store.mapper;
 
-import com.example.mylittleproject.controller.request.CreateClothesRequest;
-import com.example.mylittleproject.jpa.entity.ClothesEntity;
-import com.example.mylittleproject.model.Clothes;
+import com.example.store.controller.request.CreateClothesRequest;
+import com.example.store.jpa.entity.ClothesEntity;
+import com.example.store.model.Clothes;
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;
 
